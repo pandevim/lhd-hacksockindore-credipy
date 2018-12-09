@@ -7,7 +7,7 @@ The procedure carried out below are done under linux environment and similar can
 ```bash
 $ wget 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh'
 $ conda update conda
-$ conda create -n credipy python=3 django
+$ conda create -n credipy python=3 django sqlite3
 $ source activate credipy
 $ python -m pip install --upgrade pip
 $ pip install selenium
@@ -32,9 +32,8 @@ $
 
 ## Deploy
 ```bash
-$ django-admin startproject credipy
 $ python manage.py migrate
-$ python manage.py runserver
+$ python manage.py runserver # port: http://127.0.0.1:8000/
 ```
 
 ## Browser Support
