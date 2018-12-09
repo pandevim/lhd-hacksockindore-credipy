@@ -38,12 +38,12 @@ $ python manage.py runserver
 ```
 
 ## Browser Support
-| Browser       | Webdriver API |
-| ------------- |:---------------------------------------------------------------------:|
-| - [x] Firefox | https://github.com/mozilla/geckodriver/releases                       |
-| - [ ] Chrome  | https://sites.google.com/a/chromium.org/chromedriver/downloads        |
-| - [ ] Edge    | https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/ |
-| - [ ] Safari  | https://webkit.org/blog/6900/webdriver-support-in-safari-10/          |
+| Browser | Webdriver API |
+|:------- |:------------- |
+| <li>[x] Firefox</li> | https://github.com/mozilla/geckodriver/releases                       |
+| <li>[ ] Chrome</li>  | https://sites.google.com/a/chromium.org/chromedriver/downloads        |
+| <li>[ ] Edge</li>    | https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/ |
+| <li>[ ] Safari</li>  | https://webkit.org/blog/6900/webdriver-support-in-safari-10/          |
 
 
 ## Contributors
