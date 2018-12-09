@@ -36,3 +36,17 @@ $ django-admin startproject credipy
 $ python manage.py migrate
 $ python manage.py runserver
 ```
+
+## Browser Support
+| Browser       | Webdriver API |
+| ------------- |:---------------------------------------------------------------------:|
+| - [x] Firefox | https://github.com/mozilla/geckodriver/releases                       |
+| - [ ] Chrome  | https://sites.google.com/a/chromium.org/chromedriver/downloads        |
+| - [ ] Edge    | https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/ |
+| - [ ] Safari  | https://webkit.org/blog/6900/webdriver-support-in-safari-10/          |
+
+
+## Contributors
+
+<a href="../../../../aniruddha0pandey" target="_blank"><img src="https://avatars1.githubusercontent.com/u/31156696?s=460&v=4" 
+alt="Aniruddha Pandey" width="70" height="70" border="10" /></a> <a href="../../../../rahul-mhl" target="_blank"><img src="https://avatars2.githubusercontent.com/u/45726717?s=400&v=4" alt="Rahul Gangwal" width="70" height="70" border="10" /></a> <a href="../../../../yashrt" target="_blank"><img src="https://avatars1.githubusercontent.com/u/39941246?s=400&v=4" alt="Yash Rathod" width="70" height="70" border="10" /></a> <a href="../../../../vikaspatidar8" target="_blank"><img src="https://avatars2.githubusercontent.com/u/40030740?s=400&v=4" alt="Vikas Patidar" width="70" height="70" border="10" /></a>
