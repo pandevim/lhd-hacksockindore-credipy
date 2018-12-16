@@ -3,7 +3,7 @@ Credipy is a scraper bot based on `selenium`, `django`. This project was made as
 
 Update: We won :)
 
-The procedure carried out below are done under linux environment and similar can be derived for other os easily.
+The procedure carried out below are done under linux environment and similar can be derived for other OS easily.
   
 ## Prerequisite
 ```bash
@@ -35,7 +35,7 @@ $
 ## Deploy
 ```bash
 $ python manage.py migrate
-$ python manage.py runserver # port: http://127.0.0.1:8000/
+$ python manage.py runserver # default port: 8000
 ```
 
 ## Browser Support
