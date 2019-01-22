@@ -27,6 +27,5 @@ for combo in combos:
 	browser.find_element_by_id(password_field_id).send_keys(password)
 	browser.find_element_by_class_name(login_button_class).click()
 	time.sleep(3)
-	#browser.find_element_by_class_name('')
 exit(0)
 	
